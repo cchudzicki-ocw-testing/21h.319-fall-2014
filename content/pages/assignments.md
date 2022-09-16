@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the debates and written assignments
+  required for the course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
